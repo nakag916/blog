@@ -10,8 +10,8 @@ theme = ["docsy"]
 enableGitInfo = true
 
 # Language settings
-contentDir = "content/en"
-defaultContentLanguage = "en"
+contentDir = "content/ja"
+defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
@@ -56,6 +56,10 @@ id = "UA-00000000-0"
 title = "Goldydocs"
 description = "A Docsy example site"
 languageName ="English"
+[languages.ja]
+title = "黄金のドキュメント"
+description = "Docsyサンプルサイト"
+languageName ="Japanese"
 # Weight used for sorting.
 weight = 1
 [languages.no]
